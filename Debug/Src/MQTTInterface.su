@@ -1,0 +1,14 @@
+MQTTInterface.c:151:13:my_debug	16	static
+MQTTInterface.c:291:5:net_read	24	static
+MQTTInterface.c:319:5:net_write	32	static
+MQTTInterface.c:336:6:net_disconnect	8	static
+MQTTInterface.c:134:7:mbedtls_calloc	16	static
+MQTTInterface.c:145:6:mbedtls_free	8	static
+MQTTInterface.c:157:5:net_init	32	static
+MQTTInterface.c:254:5:net_connect	16	static
+MQTTInterface.c:348:6:net_clear	8	static
+MQTTInterface.c:366:6:TimerIsExpired	0	static
+MQTTInterface.c:371:6:TimerCountdownMS	0	static
+MQTTInterface.c:375:6:TimerCountdown	0	static
+MQTTInterface.c:379:5:TimerLeftMS	0	static
+MQTTInterface.c:384:6:TimerInit	0	static

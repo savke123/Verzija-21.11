@@ -1,0 +1,7 @@
+mqtt_task.c:175:6:StartT3Btn	8	static
+mqtt_task.c:198:6:StartT4ADC	32	static
+mqtt_task.c:427:6:MqttMessageArrived	16	static
+mqtt_task.c:34:6:EXTI15_10_IRQHandler	8	static,ignoring_inline_asm
+mqtt_task.c:71:6:MqttClientPubTask	552	static
+mqtt_task.c:372:5:MqttConnectBroker	128	static
+mqtt_task.c:49:6:MqttClientSubTask	8	static
